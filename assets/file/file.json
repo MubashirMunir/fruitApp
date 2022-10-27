@@ -1,0 +1,34 @@
+{
+  "Product":[
+  {
+    "id": "1",
+    "name": "Mango",
+    "desc": "Mango is famous all over the world",
+    "image": "https://images.heb.com/is/image/HEBGrocery/000321109",
+    "price": "120"
+
+  },
+    {
+      "id": "2",
+      "name": "Orange",
+      "desc": "Orange is better for blood circulations",
+      "image": "https://media.istockphoto.com/photos/orange-fruit-isolated-on-a-white-background-picture-id494037428",
+      "price": "90"
+
+    },
+    {
+      "id": "3",
+      "name": "Apple",
+      "desc": "apple is famous all over the world",
+      "image": "https://thumbs.dreamstime.com/b/red-apple-isolated-clipping-path-19130134.jpg",
+      "price": "200"
+    },
+    {
+      "id": "4",
+      "name": "Melon",
+      "desc": "Melon is famous all over the world",
+      "image": "https://st2.depositphotos.com/4746531/7257/i/600/depositphotos_72572829-stock-photo-galia-melon-isolated.jpg",
+      "price": "120"
+    }
+  ]
+}
